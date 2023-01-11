@@ -1,0 +1,1640 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" itemscope itemtype="http://schema.org/WebSite">
+
+<head>
+
+
+
+    <meta property="og:type" content="website" />
+
+    <meta name="language" content="English">
+    <meta name="robots" content="All">
+    <meta name="revisit-after" content="15 days">
+    <meta name="document-class" content="Living Document">
+    <meta name="document-classification" content="Workers' Compensation News and Education">
+    <meta name="document-type" content="Public">
+    <meta name="document-rating" content="General">
+    <meta name="document-distribution" content="Global">
+    <meta name="document-state" content="Dynamic">
+    <meta name="cache-control" content="Public">
+    <meta name="author" content="WorkCompCentral Workers' Compensation News and Education">
+    <meta name="avgthreatlabs-verification" content="b467cc05e55827cd7dccf5ffa0a82c3e989fe0ba" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="Description" content="Providing workers' compensation news, information, research, tools, education and training to the industry, our mission is to improve workers' comp. We cover state, national and international issues.">
+    <link href="v3_layout.css" rel="stylesheet" type="text/css">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" />
+    <link href="calc.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="jquery-ui-1.9.0.custom.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="/js/united.js?20160322104601"></script>
+    <script src="/js/wcc.js?20160322104601"></script>
+    <script src="/js/com_bar.js?20160322104601"></script>
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-29765404-2', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <script src="/js/cirep/track.js"></script>
+    <script src="/js/actb_common.js"></script>
+    <script src="/js/overlib/defaults.js"></script>
+    <script src="/js/overlib/overlib.js"></script>
+    <script src="/js/overlib/anchor.js"></script>
+    <script src="/js/overlib/centerpopup.js"></script>
+    <script src="/js/AsyncRequest.js"></script>
+    <script src="/js/validate.js"></script>
+    <script src="/js/validate-number.js"></script>
+    <script src="calc.js"></script>
+    <script src="/js/datemethods.js"></script>
+    <script src="/js/DateDays.js"></script>
+    <script src="/js/sprintf-0.7-beta1.js"></script>
+    <script src="/js/validator-jq.js"></script>
+    <!--<script src="https://f.vimeocdn.com/js/froogaloop2.min.js"></script>-->
+    <!--<script src="/js/vimeo.ga.js?20150630"></script>-->
+    <script type='text/javascript'>
+        var id = 0
+    </script>
+
+    <script src="https://ads.workcompcentral.com/ad-manager"></script>
+</head>
+
+<body>
+
+    <script>
+    </script>
+
+    <link href="/css/calc.css?201212262012" media="screen" rel="stylesheet" type="text/css">
+    <link href="/css/cupertino/jquery-ui-1.9.0.custom.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/css/login_dropdown.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css">
+    <div class="com_bar">
+        <div class="com_container" id="com_bar"></div>
+    </div>
+
+    <div class="hidden" id="com_bar_templates">
+        <script>
+            var com_auth = false;
+        </script>
+
+        <script type="text/template" id="com_bar_template">
+
+            <a href="/" class="com_logo">
+                <div class="com_tooltip_container" id="com_logo_tooltip"></div>
+            </a>
+
+            <%= content %>
+
+        </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!--<li class="com_share_li">
+				<a id="com_share_socials">
+					<div class="com_share_li_arrow"></div>
+					<span></span> <div><b>Social</b>Post to one of your <br>favorite social networks</div>
+				</a>
+			</li>-->
+        <!--<li class="com_share_li com_share_email">
+				<a>
+					<div class="com_share_li_arrow"></div>
+					<span></span> <div><b>E-mail</b>Send an e-mail to <br />anyone you would like</div>
+				</a>
+			</li>-->
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+
+    <div class="wrapper">
+
+
+
+        <!-- BREAKING NEWS!!! -->
+
+
+        <!-- maintenance message -->
+
+
+        <!-- <div id="news_alert">
+		<div id="news_alert_text" style="padding-left: 15px;"> -->
+        <!-- Please note that the WorkCompCentral office will be closed on
+			 Monday 5/28 in observation of Memorial Day-->
+        <!--
+		     We are experiencing technical difficulties with our phone system.
+			 Please email us at support@workcompcentral.com. -->
+        <!--
+			 The WCC website will be down for scheduled maintenance on
+			Sunday, July 22, from 3:30 PM to 4:30 PM.
+			-->
+        <!--
+		</div>
+	</div>
+	-->
+
+        <!-- logo/login/search wrapper -->
+
+        <!-- logo wrapper -->
+
+        <!-- nav wrapper -->
+
+        <!-- nav wrapper -->
+
+        <!-- date wrapper -->
+        <div id="date_wrapper">
+            <div id="date_in_header">
+
+                Today is Tuesday, January 10, 2023 -
+                <a class="nav_calc ca" href="/calculator">Calculators</a> ▶ <a class="col" href="#">#</a> ▶ <a href="/calculator/ca-sb863-pd-rating">PDRS SB 863</a> </div>
+        </div>
+        <!-- date wrapper -->
+
+        <!-- content wrapper -->
+        <div class="content_wrapper">
+
+            <div class="left_column" data-content>
+                <!-- start left -->
+
+                <script type="text/javascript">
+                    var kThisYear = '"2023"';
+                    var gDAYS_PER_YEAR = '365.25';
+                    var gWEEKS_OF_DISABILITY = {
+                        "1991": [{
+                            "rate": 9.75,
+                            "weeks": 3
+                        }, {
+                            "rate": 19.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 100,
+                            "weeks": 8
+                        }],
+                        "2002": [{
+                            "rate": 9.75,
+                            "weeks": 3
+                        }, {
+                            "rate": 19.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 24.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 8
+                        }, {
+                            "rate": 100,
+                            "weeks": 9
+                        }],
+                        "2003": [{
+                            "rate": 9.75,
+                            "weeks": 3
+                        }, {
+                            "rate": 19.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 24.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 8
+                        }, {
+                            "rate": 100,
+                            "weeks": 9
+                        }],
+                        "2004": [{
+                            "rate": 9.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 19.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 24.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 8
+                        }, {
+                            "rate": 100,
+                            "weeks": 9
+                        }],
+                        "2005": [{
+                            "rate": 9.75,
+                            "weeks": 3
+                        }, {
+                            "rate": 14.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 24.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 8
+                        }, {
+                            "rate": 100,
+                            "weeks": 16
+                        }],
+                        "2006": [{
+                            "rate": 9.75,
+                            "weeks": 3
+                        }, {
+                            "rate": 14.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 24.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 8
+                        }, {
+                            "rate": 100,
+                            "weeks": 16
+                        }],
+                        "2007": [{
+                            "rate": 9.75,
+                            "weeks": 3
+                        }, {
+                            "rate": 14.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 24.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 8
+                        }, {
+                            "rate": 100,
+                            "weeks": 16
+                        }],
+                        "2008": [{
+                            "rate": 9.75,
+                            "weeks": 3
+                        }, {
+                            "rate": 14.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 24.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 8
+                        }, {
+                            "rate": 100,
+                            "weeks": 16
+                        }],
+                        "2009": [{
+                            "rate": 9.75,
+                            "weeks": 3
+                        }, {
+                            "rate": 14.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 24.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 8
+                        }, {
+                            "rate": 100,
+                            "weeks": 16
+                        }],
+                        "2010": [{
+                            "rate": 9.75,
+                            "weeks": 3
+                        }, {
+                            "rate": 14.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 24.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 8
+                        }, {
+                            "rate": 100,
+                            "weeks": 16
+                        }],
+                        "2011": [{
+                            "rate": 9.75,
+                            "weeks": 3
+                        }, {
+                            "rate": 14.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 24.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 8
+                        }, {
+                            "rate": 100,
+                            "weeks": 16
+                        }],
+                        "2012": [{
+                            "rate": 9.75,
+                            "weeks": 3
+                        }, {
+                            "rate": 14.75,
+                            "weeks": 4
+                        }, {
+                            "rate": 24.75,
+                            "weeks": 5
+                        }, {
+                            "rate": 29.75,
+                            "weeks": 6
+                        }, {
+                            "rate": 49.75,
+                            "weeks": 7
+                        }, {
+                            "rate": 69.75,
+                            "weeks": 8
+                        }, {
+                            "rate": 100,
+                            "weeks": 16
+                        }]
+                    };
+                </script>
+
+                <script type="text/javascript">
+                    var gImpairmentNo = ["", "03.01.00.00", "03.02.00.00", "03.03.00.00", "03.04.00.00", "03.05.00.00", "03.06.00.00", "04.01.00.00", "04.02.00.00", "04.03.01.00", "04.03.02.00", "04.04.00.00", "05.01.00.00", "05.02.00.00", "05.03.00.00", "06.01.00.00", "06.02.00.00", "06.03.00.00", "06.03.00.00", "06.04.00.00", "06.04.00.00", "06.05.00.00", "07.01.00.00", "07.02.00.00", "07.03.00.00", "07.04.00.00", "07.05.00.00", "07.05.00.00", "07.05.00.00", "07.05.00.00", "07.05.00.00", "07.05.00.00", "07.05.00.00", "08.01.00.00", "08.02.00.00", "08.03.00.00", "08.04.00.00", "08.05.00.00", "09.01.00.00", "09.01.00.00", "09.01.00.00", "10.01.00.00", "10.01.00.00", "10.01.00.00", "10.01.00.00", "10.01.00.00", "10.01.00.00", "10.01.00.00", "10.01.00.00", "10.01.00.00", "11.01.01.00", "11.01.02.00", "11.02.01.00", "11.02.02.00", "11.03.01.00", "11.03.02.00", "11.03.03.00", "11.03.04.00", "12.01.00.00", "12.02.00.00", "12.03.00.00", "13.01.00.00", "13.02.00.00", "13.03.00.00", "13.04.00.00", "13.05.00.00", "13.06.00.00", "13.07.01.00", "13.07.02.00", "13.07.02.00", "13.07.03.00", "13.07.04.00", "13.07.05.00", "13.07.06.01", "13.07.06.02", "13.07.07.00", "13.07.08.00", "13.07.08.00", "13.07.08.00", "13.07.09.00", "13.08.00.00", "13.09.00.00", "13.09.00.00", "13.10.01.00", "13.10.02.00", "13.10.03.00", "13.10.04.00", "13.11.01.01", "13.11.01.02", "13.11.01.03", "13.11.02.01", "13.11.02.02", "13.11.02.03", "13.12.01.01", "13.12.01.02", "13.12.02.01", "13.12.02.02", "13.12.03.01", "13.12.03.02", "14.01.00.00", "15.01.01.00", "15.01.02.01", "15.01.02.02", "15.01.02.03", "15.01.02.04", "15.01.02.05", "15.01.02.06", "15.02.01.00", "15.02.02.01", "15.02.02.02", "15.02.02.03", "15.02.02.04", "15.02.02.05", "15.02.02.06", "15.03.01.00", "15.03.02.01", "15.03.02.02", "15.03.02.03", "15.03.02.04", "15.03.02.05", "15.03.02.06", "15.04.01.00", "15.04.02.00", "15.04.03.00", "15.04.04.00", "15.04.05.00", "15.04.06.00", "15.04.07.00", "15.05.01.00", "15.05.02.00", "15.05.03.00", "16.01.01.01", "16.01.01.02", "16.01.01.03", "16.01.01.04", "16.01.02.01", "16.01.02.02", "16.01.02.03", "16.01.02.04", "16.01.02.05", "16.01.03.00", "16.01.04.00", "16.01.05.00", "16.02.01.00", "16.02.02.00", "16.03.01.00", "16.03.02.00", "16.04.01.00", "16.04.02.00", "16.05.01.00", "16.05.02.00", "16.05.03.00", "16.05.04.00", "16.06.01.01", "16.06.01.02", "16.06.01.03", "16.06.01.04", "16.06.02.01", "16.06.02.02", "16.06.02.03", "16.06.02.04", "16.06.03.01", "16.06.03.02", "16.06.03.03", "16.06.03.04", "16.06.04.01", "16.06.04.02", "16.06.04.03", "16.06.04.04", "16.06.05.01", "16.06.05.02", "16.06.05.03", "16.06.05.04", "17.01.01.00", "17.01.02.01", "17.01.02.02", "17.01.03.00", "17.01.04.00", "17.01.05.00", "17.01.06.00", "17.01.07.00", "17.01.08.00", "17.02.10.00", "17.03.01.00", "17.03.02.00", "17.03.02.00", "17.03.02.00", "17.03.02.00", "17.03.02.00", "17.03.03.00", "17.03.04.00", "17.03.05.00", "17.03.06.00", "17.03.10.01", "17.03.10.02", "17.03.10.03", "17.03.10.04", "17.04.10.00", "17.05.01.00", "17.05.02.00", "17.05.02.00", "17.05.02.00", "17.05.02.00", "17.05.03.00", "17.05.04.00", "17.05.05.00", "17.05.06.00", "17.05.10.01", "17.05.10.02", "17.05.10.03", "17.05.10.04", "17.05.10.05", "17.05.10.06", "17.05.10.07", "17.05.10.08", "17.05.10.09", "17.06.10.00", "17.07.01.00", "17.07.02.00", "17.07.02.00", "17.07.02.00", "17.07.02.00", "17.07.02.00", "17.07.03.00", "17.07.04.00", "17.07.05.00", "17.07.06.00", "17.07.10.01", "17.07.10.02", "17.08.01.00", "17.08.02.00", "17.08.03.00", "17.08.04.00", "17.08.05.00", "17.08.06.00", "17.08.10.01", "17.08.10.02", "17.08.10.03", "17.08.10.04", "17.08.10.05", "17.08.10.06", "17.08.10.07", "17.09.01.00", "17.09.02.00", "17.09.03.00", "17.09.04.00", "17.09.05.00", "17.09.06.00", "17.09.07.00"];
+                    var gAMAInjury = {
+                        "0": "",
+                        "219": "Ankle - Ankylosis",
+                        "222": "Ankle - Ankylosis",
+                        "220": "Ankle - Ankylosis",
+                        "218": "Ankle - Ankylosis",
+                        "221": "Ankle - Ankylosis",
+                        "223": "Ankle - Arthritis",
+                        "228": "Ankle - Diagnosis-based Estimate - Fracture",
+                        "227": "Ankle - Diagnosis-based Estimate - Ligament Instability",
+                        "217": "Ankle - Muscle Atrophy",
+                        "225": "Ankle - Muscle Strength",
+                        "226": "Ankle - Other",
+                        "224": "Ankle - Range of Motion",
+                        "8": "Aortic Disease",
+                        "134": "Arm - Amputation\/All fingers at MP joint proximally",
+                        "132": "Arm - Amputation\/Bicipital insertion proximally",
+                        "131": "Arm - Amputation\/Deltoid insertion proximally",
+                        "133": "Arm - Amputation\/Wrist proximally",
+                        "141": "Arm - Grip\/pinch strength",
+                        "142": "Arm - Other",
+                        "135": "Arm - Peripheral neuropathy - Brachial plexus",
+                        "138": "Arm - Peripheral neuropathy - CRPS I",
+                        "139": "Arm - Peripheral neuropathy - CRPS II",
+                        "136": "Arm - Peripheral neuropathy - Entrapment..sion - Carpal tunnel",
+                        "137": "Arm - Peripheral neuropathy - Entrapment\/compression - Other",
+                        "140": "Arm - Peripheral vascular",
+                        "63": "Arousal Disorders",
+                        "6": "Arrhythmias",
+                        "12": "Asthma",
+                        "66": "Behavioral\/Emotional Disorder",
+                        "24": "Bladder",
+                        "14": "Cancer",
+                        "4": "Cardiomyopathies",
+                        "100": "Cervical - Diagnosis-related Estimate (DRE)",
+                        "101": "Cervical - Range of Motion (ROM) - Fracture",
+                        "106": "Cervical - Range of Motion - Nerve Root\/Spinal Cord - Motor",
+                        "105": "Cervical - Range of Motion - Nerve Root\/Spinal Cord - Sensory",
+                        "102": "Cervical - Range of Motion - Soft Tissue Lesion",
+                        "103": "Cervical - Range of Motion - Spondylolysis, no operation",
+                        "104": "Cervical - Range of Motion - Stenosis, with operation",
+                        "90": "Chronic Pain - Lower Extremities - Causalgia",
+                        "91": "Chronic Pain - Lower Extremities - Post-traumatic Neuralgia",
+                        "92": "Chronic Pain - Lower Extremities - Refle..ympathetic Dystrophy",
+                        "87": "Chronic Pain - Upper Extremities - Causalgia",
+                        "88": "Chronic Pain - Upper Extremities - Post-traumatic Neuralgia",
+                        "89": "Chronic Pain - Upper Extremities - Refle..ympathetic Dystrophy",
+                        "64": "Cognitive Impairment",
+                        "16": "Colon, Rectum, and Anus",
+                        "3": "Congenital Heart Disease",
+                        "61": "Consciousness Disorder",
+                        "35": "Contact Dermatitis",
+                        "2": "Coronary Heart Disease",
+                        "125": "Corticospinal Tract - Anorectal Impairment",
+                        "124": "Corticospinal Tract - Bladder Impairment",
+                        "121": "Corticospinal Tract - One Upper Extremity",
+                        "127": "Corticospinal Tract - Respiratory Impairment",
+                        "126": "Corticospinal Tract - Sexual Impairment",
+                        "123": "Corticospinal Tract - Station\/Gait Disorder",
+                        "122": "Corticospinal Tract - Two Upper Extremities",
+                        "72": "Cranial Nerve - Facial",
+                        "75": "Cranial Nerve - Glossopharyngeal & Valgus",
+                        "79": "Cranial Nerve - Hypoglossal",
+                        "70": "Cranial Nerve - Oculomotor, Trochlear & Abducens",
+                        "67": "Cranial Nerve - Olfactory",
+                        "68": "Cranial Nerve - Optic",
+                        "69": "Cranial Nerve - Optic",
+                        "77": "Cranial Nerve - Spinal Accessory",
+                        "76": "Cranial Nerve - Spinal Accessory - Shoulder - Range of motion",
+                        "78": "Cranial Nerve - Spinal Accessory - Voice & Speech",
+                        "71": "Cranial Nerve - Trigeminal",
+                        "74": "Cranial Nerve - Vestibulocochlear - Tinnitus",
+                        "73": "Cranial Nerve - Vestibulocochlear - Vertigo",
+                        "48": "Diabetes Mellitus",
+                        "43": "Diabetes Mellitus",
+                        "46": "Diabetes Mellitus",
+                        "41": "Diabetes Mellitus",
+                        "49": "Diabetes Mellitus",
+                        "44": "Diabetes Mellitus",
+                        "47": "Diabetes Mellitus",
+                        "42": "Diabetes Mellitus",
+                        "45": "Diabetes Mellitus",
+                        "33": "Disfigurement",
+                        "50": "EAR - Hearing Impairment",
+                        "51": "EAR - Vestibular Disorders",
+                        "146": "Elbow\/forearm - Other",
+                        "145": "Elbow\/forearm - Range of motion",
+                        "17": "Enterocutaneous Fistulas",
+                        "18": "Enterocutaneous Fistulas",
+                        "62": "Episodic Neurologic Disorder",
+                        "52": "Face\/cosmetic",
+                        "53": "Face\/eye\/cosmetic",
+                        "197": "Femur - Diagnosis-based Estimate - Fracture",
+                        "230": "Foot - Ankylosis",
+                        "231": "Foot - Arthritis",
+                        "240": "Foot - Diagnosis-based Estimate - Avascular Necrosis",
+                        "238": "Foot - Diagnosis-based Estimate - Calvus",
+                        "235": "Foot - Diagnosis-based Estimate - Hind Foot Fracture",
+                        "237": "Foot - Diagnosis-based Estimate - Intra-articular Fracture",
+                        "236": "Foot - Diagnosis-based Estimate - Loss of Tibia",
+                        "241": "Foot - Diagnosis-based Estimate - Metatarsal fracture",
+                        "239": "Foot - Diagnosis-based Estimate - Rocker Bottom",
+                        "229": "Foot - Muscle Atrophy",
+                        "233": "Foot - Muscle Strength",
+                        "234": "Foot - Other",
+                        "232": "Foot - Range of Motion",
+                        "150": "Hand\/multiple fingers - Amputation",
+                        "152": "Hand\/multiple fingers - Other",
+                        "149": "Hand\/multiple fingers - Range of motion",
+                        "151": "Hand\/multiple fingers - Sensory",
+                        "40": "Hematopoietic Impairment",
+                        "38": "Hematopoietic Impairment",
+                        "39": "Hematopoietic Impairment",
+                        "21": "Hernias",
+                        "184": "Hip - Ankylosis",
+                        "187": "Hip - Ankylosis",
+                        "185": "Hip - Ankylosis",
+                        "188": "Hip - Ankylosis",
+                        "186": "Hip - Ankylosis",
+                        "189": "Hip - Arthritis",
+                        "195": "Hip - Diagnosis-based Estimate - Hip\/Arthroplasty",
+                        "194": "Hip - Diagnosis-based Estimate - Hip\/Femoral Neck Fracture",
+                        "193": "Hip - Diagnosis-based Estimate - Hip\/Replacement",
+                        "196": "Hip - Diagnosis-based Estimate - Trochanteric bursitis",
+                        "183": "Hip - Muscle Atrophy",
+                        "191": "Hip - Muscle Strength",
+                        "192": "Hip - Other",
+                        "190": "Hip - Range of Motion",
+                        "7": "Hypertensive Cardiovascular Disease",
+                        "158": "Index Finger - Amputation",
+                        "160": "Index Finger - Other",
+                        "157": "Index Finger - Range of motion",
+                        "159": "Index Finger - Sensory",
+                        "200": "Knee - Ankylosis",
+                        "201": "Knee - Ankylosis",
+                        "199": "Knee - Ankylosis",
+                        "202": "Knee - Ankylosis",
+                        "203": "Knee - Arthritis",
+                        "211": "Knee - Diagnosis-based Estimate - Cruciate\/collateral Ligament",
+                        "208": "Knee - Diagnosis-based Estimate - Fracture",
+                        "210": "Knee - Diagnosis-based Estimate - Menisectomy",
+                        "209": "Knee - Diagnosis-based Estimate - Patellectomy",
+                        "212": "Knee - Diagnosis-based Estimate - Plateau Fracture",
+                        "215": "Knee - Diagnosis-based Estimate - Proximal Tibial osteotomy",
+                        "207": "Knee - Diagnosis-based Estimate - Subluxation\/dislocation",
+                        "213": "Knee - Diagnosis-based Estimate - Supra\/Intercondylar Fracture",
+                        "214": "Knee - Diagnosis-based Estimate - Total Replacement",
+                        "198": "Knee - Muscle Atrophy",
+                        "205": "Knee - Muscle Strength",
+                        "206": "Knee - Other",
+                        "204": "Knee - Range of Motion",
+                        "65": "Language Disorder",
+                        "36": "Latex Allergy",
+                        "174": "Leg - Amputation\/Knee proximally",
+                        "175": "Leg - Amputation\/MTP joint proximally",
+                        "179": "Leg - Causalgia\/RSD",
+                        "180": "Leg - Gait Derangement",
+                        "173": "Leg - Limb Length",
+                        "181": "Leg - Other",
+                        "177": "Leg - Peripheral Nerve",
+                        "176": "Leg - Skin Loss",
+                        "178": "Leg - Vascular",
+                        "170": "Little Finger - Amputation",
+                        "172": "Little Finger - Other",
+                        "169": "Little Finger - Range of motion",
+                        "171": "Little Finger - Sensory",
+                        "19": "Liver\/Biliary Tract",
+                        "20": "Liver\/Biliary Tract",
+                        "114": "Lumbar - Diagnosis-related Estimate",
+                        "115": "Lumbar - Range of Motion - Fracture",
+                        "120": "Lumbar - Range of Motion - Nerve Root\/Spinal Cord - Motor",
+                        "119": "Lumbar - Range of Motion - Nerve Root\/Spinal Cord - Sensory",
+                        "116": "Lumbar - Range of Motion - Soft Tissue Lesion",
+                        "117": "Lumbar - Range of Motion - Spondylolysis, no operation",
+                        "118": "Lumbar - Range of Motion - Stenosis, with operation",
+                        "162": "Middle Finger - Amputation",
+                        "164": "Middle Finger - Other",
+                        "161": "Middle Finger - Range of motion",
+                        "163": "Middle Finger - Sensory",
+                        "55": "Nose\/Throat\/Related Structures - Mastication & Deglutition",
+                        "56": "Nose\/Throat\/Related Structures - Olfaction & Taste",
+                        "54": "Nose\/Throat\/Related Structures - Respiration",
+                        "57": "Nose\/Throat\/Related Structures - Voice & Speech",
+                        "128": "Pelvic - Healed Fracture",
+                        "130": "Pelvic - Healed Fracture with Deformity",
+                        "129": "Pelvic - Healed Fracture with Displacement",
+                        "182": "Pelvis - Diagnosis-based estimate (DBE) - Fracture",
+                        "5": "Pericardial Heart Disease",
+                        "98": "Peripheral Nerve System - Lower Extremity - Motor",
+                        "97": "Peripheral Nerve System - Lower Extremity - Sensory",
+                        "94": "Peripheral Nerve System - Spine - Motor",
+                        "93": "Peripheral Nerve System - Spine - Sensory",
+                        "96": "Peripheral Nerve System - Upper Extremity - Motor",
+                        "95": "Peripheral Nerve System - Upper Extremity - Sensory",
+                        "10": "Peripheral Vascular Disease, Lower Extremities",
+                        "9": "Peripheral Vascular Disease, Upper Extremities",
+                        "99": "Psychiatric - Mental and Behavioral",
+                        "11": "Pulmonary Circulation Disease",
+                        "32": "Reproductive  System",
+                        "27": "Reproductive  System",
+                        "30": "Reproductive  System",
+                        "28": "Reproductive  System",
+                        "31": "Reproductive  System",
+                        "26": "Reproductive  System",
+                        "29": "Reproductive  System",
+                        "13": "Respitory Disorders",
+                        "166": "Ring Finger - Amputation",
+                        "168": "Ring Finger - Other",
+                        "165": "Ring Finger - Range of motion",
+                        "167": "Ring Finger - Sensory",
+                        "34": "Scars & Skin Grafts",
+                        "144": "Shoulder - Other",
+                        "143": "Shoulder - Range of motion",
+                        "37": "Skin Cancer",
+                        "85": "Spinal Cord Disorder - Anorectal",
+                        "83": "Spinal Cord Disorder - Respiratory",
+                        "86": "Spinal Cord Disorder - Sexual",
+                        "84": "Spinal Cord Disorder - Urinary",
+                        "80": "Station and Gait Disorders",
+                        "107": "Thoracic - Diagnosis-related Estimate",
+                        "108": "Thoracic - Range of Motion - Fracture",
+                        "113": "Thoracic - Range of Motion - Nerve Root\/Spinal Cord - Motor",
+                        "112": "Thoracic - Range of Motion - Nerve Root\/Spinal Cord - Sensory",
+                        "109": "Thoracic - Range of Motion - Soft Tissue Lesion",
+                        "110": "Thoracic - Range of Motion - Spondylolysis, no operation",
+                        "111": "Thoracic - Range of Motion - Stenosis, with operation",
+                        "154": "Thumb - Amputation",
+                        "156": "Thumb - Other",
+                        "153": "Thumb - Range of motion",
+                        "155": "Thumb - Sensory",
+                        "216": "Tibia\/fibula - Diagnosis-based Estimate - fracture",
+                        "247": "Toes - Amputation",
+                        "243": "Toes - Ankylosis",
+                        "244": "Toes - Arthritis",
+                        "242": "Toes - Muscle Atrophy",
+                        "246": "Toes - Muscle Strength",
+                        "248": "Toes - Other",
+                        "245": "Toes - Range of Motion",
+                        "15": "Upper Digestive Tract",
+                        "81": "Upper Extremities",
+                        "82": "Upper Extremities",
+                        "22": "Upper Urinary Tract",
+                        "25": "Urethra",
+                        "23": "Urinary Diversion",
+                        "1": "Valvular Heart Disease",
+                        "58": "Visual Acuity",
+                        "59": "Visual Field",
+                        "60": "Visual System",
+                        "148": "Wrist - Other",
+                        "147": "Wrist - Range of motion"
+                    };
+                    var gOccupationGroup = null;
+                    var gOccupationName = null;
+                </script>
+
+
+                <noscript>
+	<br><br>You must have javascript enabled to use this calculator.<br><br><br>
+</noscript>
+                <style>
+                    li>select {
+                        margin-top: 4px;
+                        max-width: 260px;
+                    }
+                </style>
+                <form name="f" action="" method="post" id="calc_form">
+                    <input type="hidden" name="fa" value="ca-sb863-pd-rating">
+                    <div class="new_calculator">
+
+                        <div class="calc_subscribe_cont"><a href="/subscribe/" class="calc_subscribe">You must be a member to see results, please login, or click here to subscribe!</a></div>
+
+                        <div class="calc_body">
+                            <ul>
+                                <li class="firstoftype">
+                                    <label>Date of birth:</label>
+                                    <select name="dobMonth" data-dd data-date="dob" data-validator="date"><option label="January" value="01" selected>January</option><option label="February" value="02">February</option><option label="March" value="03">March</option><option label="April" value="04">April</option><option label="May" value="05">May</option><option label="June" value="06">June</option><option label="July" value="07">July</option><option label="August" value="08">August</option><option label="September" value="09">September</option><option label="October" value="10">October</option><option label="November" value="11">November</option><option label="December" value="12">December</option></select>
+
+                                    <select name="dobDay" data-dd data-date="dob" data-validator="date"><option label="1" value="01">1</option><option label="2" value="02">2</option><option label="3" value="03">3</option><option label="4" value="04">4</option><option label="5" value="05">5</option><option label="6" value="06">6</option><option label="7" value="07">7</option><option label="8" value="08">8</option><option label="9" value="09">9</option><option label="10" value="10" selected>10</option><option label="11" value="11">11</option><option label="12" value="12">12</option><option label="13" value="13">13</option><option label="14" value="14">14</option><option label="15" value="15">15</option><option label="16" value="16">16</option><option label="17" value="17">17</option><option label="18" value="18">18</option><option label="19" value="19">19</option><option label="20" value="20">20</option><option label="21" value="21">21</option><option label="22" value="22">22</option><option label="23" value="23">23</option><option label="24" value="24">24</option><option label="25" value="25">25</option><option label="26" value="26">26</option><option label="27" value="27">27</option><option label="28" value="28">28</option><option label="29" value="29">29</option><option label="30" value="30">30</option><option label="31" value="31">31</option></select>
+
+                                    <select name="dobYear" data-dd data-date="dob" data-validator="date" style="width:61px;"><option label="2009" value="2009">2009</option><option label="2008" value="2008">2008</option><option label="2007" value="2007">2007</option><option label="2006" value="2006">2006</option><option label="2005" value="2005">2005</option><option label="2004" value="2004">2004</option><option label="2003" value="2003">2003</option><option label="2002" value="2002">2002</option><option label="2001" value="2001">2001</option><option label="2000" value="2000">2000</option><option label="1999" value="1999">1999</option><option label="1998" value="1998">1998</option><option label="1997" value="1997">1997</option><option label="1996" value="1996">1996</option><option label="1995" value="1995">1995</option><option label="1994" value="1994">1994</option><option label="1993" value="1993">1993</option><option label="1992" value="1992">1992</option><option label="1991" value="1991">1991</option><option label="1990" value="1990">1990</option><option label="1989" value="1989">1989</option><option label="1988" value="1988">1988</option><option label="1987" value="1987">1987</option><option label="1986" value="1986">1986</option><option label="1985" value="1985">1985</option><option label="1984" value="1984">1984</option><option label="1983" value="1983" selected>1983</option><option label="1982" value="1982">1982</option><option label="1981" value="1981">1981</option><option label="1980" value="1980">1980</option><option label="1979" value="1979">1979</option><option label="1978" value="1978">1978</option><option label="1977" value="1977">1977</option><option label="1976" value="1976">1976</option><option label="1975" value="1975">1975</option><option label="1974" value="1974">1974</option><option label="1973" value="1973">1973</option><option label="1972" value="1972">1972</option><option label="1971" value="1971">1971</option><option label="1970" value="1970">1970</option><option label="1969" value="1969">1969</option><option label="1968" value="1968">1968</option><option label="1967" value="1967">1967</option><option label="1966" value="1966">1966</option><option label="1965" value="1965">1965</option><option label="1964" value="1964">1964</option><option label="1963" value="1963">1963</option><option label="1962" value="1962">1962</option><option label="1961" value="1961">1961</option><option label="1960" value="1960">1960</option><option label="1959" value="1959">1959</option><option label="1958" value="1958">1958</option><option label="1957" value="1957">1957</option><option label="1956" value="1956">1956</option><option label="1955" value="1955">1955</option><option label="1954" value="1954">1954</option><option label="1953" value="1953">1953</option><option label="1952" value="1952">1952</option><option label="1951" value="1951">1951</option><option label="1950" value="1950">1950</option><option label="1949" value="1949">1949</option><option label="1948" value="1948">1948</option><option label="1947" value="1947">1947</option><option label="1946" value="1946">1946</option><option label="1945" value="1945">1945</option><option label="1944" value="1944">1944</option><option label="1943" value="1943">1943</option><option label="1942" value="1942">1942</option><option label="1941" value="1941">1941</option><option label="1940" value="1940">1940</option><option label="1939" value="1939">1939</option><option label="1938" value="1938">1938</option><option label="1937" value="1937">1937</option><option label="1936" value="1936">1936</option><option label="1935" value="1935">1935</option><option label="1934" value="1934">1934</option><option label="1933" value="1933">1933</option><option label="1932" value="1932">1932</option><option label="1931" value="1931">1931</option><option label="1930" value="1930">1930</option><option label="1929" value="1929">1929</option><option label="1928" value="1928">1928</option><option label="1927" value="1927">1927</option><option label="1926" value="1926">1926</option><option label="1925" value="1925">1925</option><option label="1924" value="1924">1924</option><option label="1923" value="1923">1923</option><option label="1922" value="1922">1922</option><option label="1921" value="1921">1921</option><option label="1920" value="1920">1920</option><option label="1919" value="1919">1919</option><option label="1918" value="1918">1918</option><option label="1917" value="1917">1917</option><option label="1916" value="1916">1916</option><option label="1915" value="1915">1915</option><option label="1914" value="1914">1914</option><option label="1913" value="1913">1913</option></select>
+                                </li>
+                                <li>
+                                    <label>Date of injury:</label>
+                                    <select name="doiMonth" data-dd data-date="doi" data-validator="date"><option label="January" value="01" selected>January</option><option label="February" value="02">February</option><option label="March" value="03">March</option><option label="April" value="04">April</option><option label="May" value="05">May</option><option label="June" value="06">June</option><option label="July" value="07">July</option><option label="August" value="08">August</option><option label="September" value="09">September</option><option label="October" value="10">October</option><option label="November" value="11">November</option><option label="December" value="12">December</option></select>
+
+                                    <select name="doiDay" data-dd data-date="doi" data-validator="date"><option label="1" value="01" selected>1</option><option label="2" value="02">2</option><option label="3" value="03">3</option><option label="4" value="04">4</option><option label="5" value="05">5</option><option label="6" value="06">6</option><option label="7" value="07">7</option><option label="8" value="08">8</option><option label="9" value="09">9</option><option label="10" value="10">10</option><option label="11" value="11">11</option><option label="12" value="12">12</option><option label="13" value="13">13</option><option label="14" value="14">14</option><option label="15" value="15">15</option><option label="16" value="16">16</option><option label="17" value="17">17</option><option label="18" value="18">18</option><option label="19" value="19">19</option><option label="20" value="20">20</option><option label="21" value="21">21</option><option label="22" value="22">22</option><option label="23" value="23">23</option><option label="24" value="24">24</option><option label="25" value="25">25</option><option label="26" value="26">26</option><option label="27" value="27">27</option><option label="28" value="28">28</option><option label="29" value="29">29</option><option label="30" value="30">30</option><option label="31" value="31">31</option></select>
+
+                                    <select name="doiYear" data-dd data-date="doi" data-validator="date" style="width:61px;"><option label="2028" value="2028">2028</option><option label="2027" value="2027">2027</option><option label="2026" value="2026">2026</option><option label="2025" value="2025">2025</option><option label="2024" value="2024">2024</option><option label="2023" value="2023">2023</option><option label="2022" value="2022">2022</option><option label="2021" value="2021">2021</option><option label="2020" value="2020">2020</option><option label="2019" value="2019">2019</option><option label="2018" value="2018">2018</option><option label="2017" value="2017">2017</option><option label="2016" value="2016">2016</option><option label="2015" value="2015">2015</option><option label="2014" value="2014">2014</option><option label="2013" value="2013" selected>2013</option></select>
+                                </li>
+                                <li>
+                                    <label>
+						<div class="inline large" data-tt>Choose a Chapter and Table. </div>
+						<span class="label_qmi_text">AMA Chapter &amp; Table (optional):</span>
+					</label>
+                                    <select name="ama_chapter">
+						<option label="All" value="">All</option>
+													<option label="3-5" value="3-5">3-5</option>
+													<option label="3-6" value="3-6">3-6</option>
+													<option label="3-8" value="3-8">3-8</option>
+													<option label="3-9" value="3-9">3-9</option>
+													<option label="3-10" value="3-10">3-10</option>
+													<option label="3-11" value="3-11">3-11</option>
+													<option label="4-2" value="4-2">4-2</option>
+													<option label="4-3" value="4-3">4-3</option>
+													<option label="4-4" value="4-4">4-4</option>
+													<option label="4-5" value="4-5">4-5</option>
+													<option label="4-6" value="4-6">4-6</option>
+													<option label="5-10" value="5-10">5-10</option>
+													<option label="5-12" value="5-12">5-12</option>
+													<option label="6-3" value="6-3">6-3</option>
+													<option label="6-4" value="6-4">6-4</option>
+													<option label="6-5" value="6-5">6-5</option>
+													<option label="6-6" value="6-6">6-6</option>
+													<option label="6-7" value="6-7">6-7</option>
+													<option label="6-8" value="6-8">6-8</option>
+													<option label="6-9" value="6-9">6-9</option>
+													<option label="7-1" value="7-1">7-1</option>
+													<option label="7-2" value="7-2">7-2</option>
+													<option label="7-3" value="7-3">7-3</option>
+													<option label="7-4" value="7-4">7-4</option>
+													<option label="7-5" value="7-5">7-5</option>
+													<option label="7-6" value="7-6">7-6</option>
+													<option label="7-7" value="7-7">7-7</option>
+													<option label="7-8" value="7-8">7-8</option>
+													<option label="7-9" value="7-9">7-9</option>
+													<option label="7-10" value="7-10">7-10</option>
+													<option label="7-11" value="7-11">7-11</option>
+													<option label="8-2" value="8-2">8-2</option>
+													<option label="9-2" value="9-2">9-2</option>
+													<option label="9-3" value="9-3">9-3</option>
+													<option label="9-4" value="9-4">9-4</option>
+													<option label="10-1" value="10-1">10-1</option>
+													<option label="10-2" value="10-2">10-2</option>
+													<option label="10-3" value="10-3">10-3</option>
+													<option label="10-4" value="10-4">10-4</option>
+													<option label="10-5" value="10-5">10-5</option>
+													<option label="10-6" value="10-6">10-6</option>
+													<option label="10-7" value="10-7">10-7</option>
+													<option label="10-8" value="10-8">10-8</option>
+													<option label="10-9" value="10-9">10-9</option>
+													<option label="11-3" value="11-3">11-3</option>
+													<option label="11-4" value="11-4">11-4</option>
+													<option label="11-5" value="11-5">11-5</option>
+													<option label="11-6" value="11-6">11-6</option>
+													<option label="11-7" value="11-7">11-7</option>
+													<option label="11-8" value="11-8">11-8</option>
+													<option label="11-9" value="11-9">11-9</option>
+													<option label="12-4" value="12-4">12-4</option>
+													<option label="12-7" value="12-7">12-7</option>
+													<option label="12-10" value="12-10">12-10</option>
+													<option label="13-2" value="13-2">13-2</option>
+													<option label="13-3" value="13-3">13-3</option>
+													<option label="13-4" value="13-4">13-4</option>
+													<option label="13-6" value="13-6">13-6</option>
+													<option label="13-7" value="13-7">13-7</option>
+													<option label="13-8" value="13-8">13-8</option>
+													<option label="13-9" value="13-9">13-9</option>
+													<option label="13-10" value="13-10">13-10</option>
+													<option label="13-11" value="13-11">13-11</option>
+													<option label="13-12" value="13-12">13-12</option>
+													<option label="13-13" value="13-13">13-13</option>
+													<option label="13-14" value="13-14">13-14</option>
+													<option label="13-15" value="13-15">13-15</option>
+													<option label="13-16" value="13-16">13-16</option>
+													<option label="13-17" value="13-17">13-17</option>
+													<option label="13-18" value="13-18">13-18</option>
+													<option label="13-19" value="13-19">13-19</option>
+													<option label="13-20" value="13-20">13-20</option>
+													<option label="13-21" value="13-21">13-21</option>
+													<option label="13-22" value="13-22">13-22</option>
+													<option label="13-23" value="13-23">13-23</option>
+													<option label="13-24" value="13-24">13-24</option>
+													<option label="14-1" value="14-1">14-1</option>
+													<option label="15-3" value="15-3">15-3</option>
+													<option label="15-4" value="15-4">15-4</option>
+													<option label="15-5" value="15-5">15-5</option>
+													<option label="15-6" value="15-6">15-6</option>
+													<option label="15-7" value="15-7">15-7</option>
+													<option label="15-15" value="15-15">15-15</option>
+													<option label="15-16" value="15-16">15-16</option>
+													<option label="15-19" value="15-19">15-19</option>
+													<option label="16-3" value="16-3">16-3</option>
+													<option label="16-4" value="16-4">16-4</option>
+													<option label="16-18" value="16-18">16-18</option>
+													<option label="17-2" value="17-2">17-2</option>
+													<option label="17-4" value="17-4">17-4</option>
+													<option label="17-5" value="17-5">17-5</option>
+													<option label="17-6" value="17-6">17-6</option>
+													<option label="17-8" value="17-8">17-8</option>
+													<option label="17-9" value="17-9">17-9</option>
+													<option label="17-10" value="17-10">17-10</option>
+													<option label="17-11" value="17-11">17-11</option>
+													<option label="17-12" value="17-12">17-12</option>
+													<option label="17-14" value="17-14">17-14</option>
+													<option label="17-15" value="17-15">17-15</option>
+													<option label="17-16" value="17-16">17-16</option>
+													<option label="17-17" value="17-17">17-17</option>
+													<option label="17-18" value="17-18">17-18</option>
+													<option label="17-19" value="17-19">17-19</option>
+													<option label="17-20" value="17-20">17-20</option>
+													<option label="17-21" value="17-21">17-21</option>
+													<option label="17-22" value="17-22">17-22</option>
+													<option label="17-23" value="17-23">17-23</option>
+													<option label="17-24" value="17-24">17-24</option>
+													<option label="17-25" value="17-25">17-25</option>
+													<option label="17-26" value="17-26">17-26</option>
+													<option label="17-27" value="17-27">17-27</option>
+													<option label="17-28" value="17-28">17-28</option>
+													<option label="17-30" value="17-30">17-30</option>
+													<option label="17-31" value="17-31">17-31</option>
+													<option label="17-32" value="17-32">17-32</option>
+													<option label="17-33" value="17-33">17-33</option>
+													<option label="17-36" value="17-36">17-36</option>
+													<option label="17-37" value="17-37">17-37</option>
+													<option label="17-38" value="17-38">17-38</option>
+											</select>
+                                </li>
+                                <li style="height:auto;min-height:26px;">
+                                    <label>Table Name:</label>
+                                    <span id="table_result"></span>
+                                </li>
+                                <li>
+                                    <label>
+						<div class="inline large" data-tt>Choose an impairment by it's number or body system name.<br><br>.</div>
+						<span class="label_qmi_text"></span>
+					</label>
+                                    <input name="impairment_no_init" type="hidden" value="">
+                                    <select name="impairment_no_m">
+						<option label="" value="0"></option>
+												<option label="" value="0" selected></option>
+												<option label="03.01.00.00" value="1">03.01.00.00</option>
+												<option label="03.02.00.00" value="2">03.02.00.00</option>
+												<option label="03.03.00.00" value="3">03.03.00.00</option>
+												<option label="03.04.00.00" value="4">03.04.00.00</option>
+												<option label="03.05.00.00" value="5">03.05.00.00</option>
+												<option label="03.06.00.00" value="6">03.06.00.00</option>
+												<option label="04.01.00.00" value="7">04.01.00.00</option>
+												<option label="04.02.00.00" value="8">04.02.00.00</option>
+												<option label="04.03.01.00" value="9">04.03.01.00</option>
+												<option label="04.03.02.00" value="10">04.03.02.00</option>
+												<option label="04.04.00.00" value="11">04.04.00.00</option>
+												<option label="05.01.00.00" value="12">05.01.00.00</option>
+												<option label="05.02.00.00" value="13">05.02.00.00</option>
+												<option label="05.03.00.00" value="14">05.03.00.00</option>
+												<option label="06.01.00.00" value="15">06.01.00.00</option>
+												<option label="06.02.00.00" value="16">06.02.00.00</option>
+												<option label="06.03.00.00" value="17">06.03.00.00</option>
+												<option label="06.03.00.00" value="18">06.03.00.00</option>
+												<option label="06.04.00.00" value="19">06.04.00.00</option>
+												<option label="06.04.00.00" value="20">06.04.00.00</option>
+												<option label="06.05.00.00" value="21">06.05.00.00</option>
+												<option label="07.01.00.00" value="22">07.01.00.00</option>
+												<option label="07.02.00.00" value="23">07.02.00.00</option>
+												<option label="07.03.00.00" value="24">07.03.00.00</option>
+												<option label="07.04.00.00" value="25">07.04.00.00</option>
+												<option label="07.05.00.00" value="26">07.05.00.00</option>
+												<option label="07.05.00.00" value="27">07.05.00.00</option>
+												<option label="07.05.00.00" value="28">07.05.00.00</option>
+												<option label="07.05.00.00" value="29">07.05.00.00</option>
+												<option label="07.05.00.00" value="30">07.05.00.00</option>
+												<option label="07.05.00.00" value="31">07.05.00.00</option>
+												<option label="07.05.00.00" value="32">07.05.00.00</option>
+												<option label="08.01.00.00" value="33">08.01.00.00</option>
+												<option label="08.02.00.00" value="34">08.02.00.00</option>
+												<option label="08.03.00.00" value="35">08.03.00.00</option>
+												<option label="08.04.00.00" value="36">08.04.00.00</option>
+												<option label="08.05.00.00" value="37">08.05.00.00</option>
+												<option label="09.01.00.00" value="38">09.01.00.00</option>
+												<option label="09.01.00.00" value="39">09.01.00.00</option>
+												<option label="09.01.00.00" value="40">09.01.00.00</option>
+												<option label="10.01.00.00" value="41">10.01.00.00</option>
+												<option label="10.01.00.00" value="42">10.01.00.00</option>
+												<option label="10.01.00.00" value="43">10.01.00.00</option>
+												<option label="10.01.00.00" value="44">10.01.00.00</option>
+												<option label="10.01.00.00" value="45">10.01.00.00</option>
+												<option label="10.01.00.00" value="46">10.01.00.00</option>
+												<option label="10.01.00.00" value="47">10.01.00.00</option>
+												<option label="10.01.00.00" value="48">10.01.00.00</option>
+												<option label="10.01.00.00" value="49">10.01.00.00</option>
+												<option label="11.01.01.00" value="50">11.01.01.00</option>
+												<option label="11.01.02.00" value="51">11.01.02.00</option>
+												<option label="11.02.01.00" value="52">11.02.01.00</option>
+												<option label="11.02.02.00" value="53">11.02.02.00</option>
+												<option label="11.03.01.00" value="54">11.03.01.00</option>
+												<option label="11.03.02.00" value="55">11.03.02.00</option>
+												<option label="11.03.03.00" value="56">11.03.03.00</option>
+												<option label="11.03.04.00" value="57">11.03.04.00</option>
+												<option label="12.01.00.00" value="58">12.01.00.00</option>
+												<option label="12.02.00.00" value="59">12.02.00.00</option>
+												<option label="12.03.00.00" value="60">12.03.00.00</option>
+												<option label="13.01.00.00" value="61">13.01.00.00</option>
+												<option label="13.02.00.00" value="62">13.02.00.00</option>
+												<option label="13.03.00.00" value="63">13.03.00.00</option>
+												<option label="13.04.00.00" value="64">13.04.00.00</option>
+												<option label="13.05.00.00" value="65">13.05.00.00</option>
+												<option label="13.06.00.00" value="66">13.06.00.00</option>
+												<option label="13.07.01.00" value="67">13.07.01.00</option>
+												<option label="13.07.02.00" value="68">13.07.02.00</option>
+												<option label="13.07.02.00" value="69">13.07.02.00</option>
+												<option label="13.07.03.00" value="70">13.07.03.00</option>
+												<option label="13.07.04.00" value="71">13.07.04.00</option>
+												<option label="13.07.05.00" value="72">13.07.05.00</option>
+												<option label="13.07.06.01" value="73">13.07.06.01</option>
+												<option label="13.07.06.02" value="74">13.07.06.02</option>
+												<option label="13.07.07.00" value="75">13.07.07.00</option>
+												<option label="13.07.08.00" value="76">13.07.08.00</option>
+												<option label="13.07.08.00" value="77">13.07.08.00</option>
+												<option label="13.07.08.00" value="78">13.07.08.00</option>
+												<option label="13.07.09.00" value="79">13.07.09.00</option>
+												<option label="13.08.00.00" value="80">13.08.00.00</option>
+												<option label="13.09.00.00" value="81">13.09.00.00</option>
+												<option label="13.09.00.00" value="82">13.09.00.00</option>
+												<option label="13.10.01.00" value="83">13.10.01.00</option>
+												<option label="13.10.02.00" value="84">13.10.02.00</option>
+												<option label="13.10.03.00" value="85">13.10.03.00</option>
+												<option label="13.10.04.00" value="86">13.10.04.00</option>
+												<option label="13.11.01.01" value="87">13.11.01.01</option>
+												<option label="13.11.01.02" value="88">13.11.01.02</option>
+												<option label="13.11.01.03" value="89">13.11.01.03</option>
+												<option label="13.11.02.01" value="90">13.11.02.01</option>
+												<option label="13.11.02.02" value="91">13.11.02.02</option>
+												<option label="13.11.02.03" value="92">13.11.02.03</option>
+												<option label="13.12.01.01" value="93">13.12.01.01</option>
+												<option label="13.12.01.02" value="94">13.12.01.02</option>
+												<option label="13.12.02.01" value="95">13.12.02.01</option>
+												<option label="13.12.02.02" value="96">13.12.02.02</option>
+												<option label="13.12.03.01" value="97">13.12.03.01</option>
+												<option label="13.12.03.02" value="98">13.12.03.02</option>
+												<option label="14.01.00.00" value="99">14.01.00.00</option>
+												<option label="15.01.01.00" value="100">15.01.01.00</option>
+												<option label="15.01.02.01" value="101">15.01.02.01</option>
+												<option label="15.01.02.02" value="102">15.01.02.02</option>
+												<option label="15.01.02.03" value="103">15.01.02.03</option>
+												<option label="15.01.02.04" value="104">15.01.02.04</option>
+												<option label="15.01.02.05" value="105">15.01.02.05</option>
+												<option label="15.01.02.06" value="106">15.01.02.06</option>
+												<option label="15.02.01.00" value="107">15.02.01.00</option>
+												<option label="15.02.02.01" value="108">15.02.02.01</option>
+												<option label="15.02.02.02" value="109">15.02.02.02</option>
+												<option label="15.02.02.03" value="110">15.02.02.03</option>
+												<option label="15.02.02.04" value="111">15.02.02.04</option>
+												<option label="15.02.02.05" value="112">15.02.02.05</option>
+												<option label="15.02.02.06" value="113">15.02.02.06</option>
+												<option label="15.03.01.00" value="114">15.03.01.00</option>
+												<option label="15.03.02.01" value="115">15.03.02.01</option>
+												<option label="15.03.02.02" value="116">15.03.02.02</option>
+												<option label="15.03.02.03" value="117">15.03.02.03</option>
+												<option label="15.03.02.04" value="118">15.03.02.04</option>
+												<option label="15.03.02.05" value="119">15.03.02.05</option>
+												<option label="15.03.02.06" value="120">15.03.02.06</option>
+												<option label="15.04.01.00" value="121">15.04.01.00</option>
+												<option label="15.04.02.00" value="122">15.04.02.00</option>
+												<option label="15.04.03.00" value="123">15.04.03.00</option>
+												<option label="15.04.04.00" value="124">15.04.04.00</option>
+												<option label="15.04.05.00" value="125">15.04.05.00</option>
+												<option label="15.04.06.00" value="126">15.04.06.00</option>
+												<option label="15.04.07.00" value="127">15.04.07.00</option>
+												<option label="15.05.01.00" value="128">15.05.01.00</option>
+												<option label="15.05.02.00" value="129">15.05.02.00</option>
+												<option label="15.05.03.00" value="130">15.05.03.00</option>
+												<option label="16.01.01.01" value="131">16.01.01.01</option>
+												<option label="16.01.01.02" value="132">16.01.01.02</option>
+												<option label="16.01.01.03" value="133">16.01.01.03</option>
+												<option label="16.01.01.04" value="134">16.01.01.04</option>
+												<option label="16.01.02.01" value="135">16.01.02.01</option>
+												<option label="16.01.02.02" value="136">16.01.02.02</option>
+												<option label="16.01.02.03" value="137">16.01.02.03</option>
+												<option label="16.01.02.04" value="138">16.01.02.04</option>
+												<option label="16.01.02.05" value="139">16.01.02.05</option>
+												<option label="16.01.03.00" value="140">16.01.03.00</option>
+												<option label="16.01.04.00" value="141">16.01.04.00</option>
+												<option label="16.01.05.00" value="142">16.01.05.00</option>
+												<option label="16.02.01.00" value="143">16.02.01.00</option>
+												<option label="16.02.02.00" value="144">16.02.02.00</option>
+												<option label="16.03.01.00" value="145">16.03.01.00</option>
+												<option label="16.03.02.00" value="146">16.03.02.00</option>
+												<option label="16.04.01.00" value="147">16.04.01.00</option>
+												<option label="16.04.02.00" value="148">16.04.02.00</option>
+												<option label="16.05.01.00" value="149">16.05.01.00</option>
+												<option label="16.05.02.00" value="150">16.05.02.00</option>
+												<option label="16.05.03.00" value="151">16.05.03.00</option>
+												<option label="16.05.04.00" value="152">16.05.04.00</option>
+												<option label="16.06.01.01" value="153">16.06.01.01</option>
+												<option label="16.06.01.02" value="154">16.06.01.02</option>
+												<option label="16.06.01.03" value="155">16.06.01.03</option>
+												<option label="16.06.01.04" value="156">16.06.01.04</option>
+												<option label="16.06.02.01" value="157">16.06.02.01</option>
+												<option label="16.06.02.02" value="158">16.06.02.02</option>
+												<option label="16.06.02.03" value="159">16.06.02.03</option>
+												<option label="16.06.02.04" value="160">16.06.02.04</option>
+												<option label="16.06.03.01" value="161">16.06.03.01</option>
+												<option label="16.06.03.02" value="162">16.06.03.02</option>
+												<option label="16.06.03.03" value="163">16.06.03.03</option>
+												<option label="16.06.03.04" value="164">16.06.03.04</option>
+												<option label="16.06.04.01" value="165">16.06.04.01</option>
+												<option label="16.06.04.02" value="166">16.06.04.02</option>
+												<option label="16.06.04.03" value="167">16.06.04.03</option>
+												<option label="16.06.04.04" value="168">16.06.04.04</option>
+												<option label="16.06.05.01" value="169">16.06.05.01</option>
+												<option label="16.06.05.02" value="170">16.06.05.02</option>
+												<option label="16.06.05.03" value="171">16.06.05.03</option>
+												<option label="16.06.05.04" value="172">16.06.05.04</option>
+												<option label="17.01.01.00" value="173">17.01.01.00</option>
+												<option label="17.01.02.01" value="174">17.01.02.01</option>
+												<option label="17.01.02.02" value="175">17.01.02.02</option>
+												<option label="17.01.03.00" value="176">17.01.03.00</option>
+												<option label="17.01.04.00" value="177">17.01.04.00</option>
+												<option label="17.01.05.00" value="178">17.01.05.00</option>
+												<option label="17.01.06.00" value="179">17.01.06.00</option>
+												<option label="17.01.07.00" value="180">17.01.07.00</option>
+												<option label="17.01.08.00" value="181">17.01.08.00</option>
+												<option label="17.02.10.00" value="182">17.02.10.00</option>
+												<option label="17.03.01.00" value="183">17.03.01.00</option>
+												<option label="17.03.02.00" value="184">17.03.02.00</option>
+												<option label="17.03.02.00" value="185">17.03.02.00</option>
+												<option label="17.03.02.00" value="186">17.03.02.00</option>
+												<option label="17.03.02.00" value="187">17.03.02.00</option>
+												<option label="17.03.02.00" value="188">17.03.02.00</option>
+												<option label="17.03.03.00" value="189">17.03.03.00</option>
+												<option label="17.03.04.00" value="190">17.03.04.00</option>
+												<option label="17.03.05.00" value="191">17.03.05.00</option>
+												<option label="17.03.06.00" value="192">17.03.06.00</option>
+												<option label="17.03.10.01" value="193">17.03.10.01</option>
+												<option label="17.03.10.02" value="194">17.03.10.02</option>
+												<option label="17.03.10.03" value="195">17.03.10.03</option>
+												<option label="17.03.10.04" value="196">17.03.10.04</option>
+												<option label="17.04.10.00" value="197">17.04.10.00</option>
+												<option label="17.05.01.00" value="198">17.05.01.00</option>
+												<option label="17.05.02.00" value="199">17.05.02.00</option>
+												<option label="17.05.02.00" value="200">17.05.02.00</option>
+												<option label="17.05.02.00" value="201">17.05.02.00</option>
+												<option label="17.05.02.00" value="202">17.05.02.00</option>
+												<option label="17.05.03.00" value="203">17.05.03.00</option>
+												<option label="17.05.04.00" value="204">17.05.04.00</option>
+												<option label="17.05.05.00" value="205">17.05.05.00</option>
+												<option label="17.05.06.00" value="206">17.05.06.00</option>
+												<option label="17.05.10.01" value="207">17.05.10.01</option>
+												<option label="17.05.10.02" value="208">17.05.10.02</option>
+												<option label="17.05.10.03" value="209">17.05.10.03</option>
+												<option label="17.05.10.04" value="210">17.05.10.04</option>
+												<option label="17.05.10.05" value="211">17.05.10.05</option>
+												<option label="17.05.10.06" value="212">17.05.10.06</option>
+												<option label="17.05.10.07" value="213">17.05.10.07</option>
+												<option label="17.05.10.08" value="214">17.05.10.08</option>
+												<option label="17.05.10.09" value="215">17.05.10.09</option>
+												<option label="17.06.10.00" value="216">17.06.10.00</option>
+												<option label="17.07.01.00" value="217">17.07.01.00</option>
+												<option label="17.07.02.00" value="218">17.07.02.00</option>
+												<option label="17.07.02.00" value="219">17.07.02.00</option>
+												<option label="17.07.02.00" value="220">17.07.02.00</option>
+												<option label="17.07.02.00" value="221">17.07.02.00</option>
+												<option label="17.07.02.00" value="222">17.07.02.00</option>
+												<option label="17.07.03.00" value="223">17.07.03.00</option>
+												<option label="17.07.04.00" value="224">17.07.04.00</option>
+												<option label="17.07.05.00" value="225">17.07.05.00</option>
+												<option label="17.07.06.00" value="226">17.07.06.00</option>
+												<option label="17.07.10.01" value="227">17.07.10.01</option>
+												<option label="17.07.10.02" value="228">17.07.10.02</option>
+												<option label="17.08.01.00" value="229">17.08.01.00</option>
+												<option label="17.08.02.00" value="230">17.08.02.00</option>
+												<option label="17.08.03.00" value="231">17.08.03.00</option>
+												<option label="17.08.04.00" value="232">17.08.04.00</option>
+												<option label="17.08.05.00" value="233">17.08.05.00</option>
+												<option label="17.08.06.00" value="234">17.08.06.00</option>
+												<option label="17.08.10.01" value="235">17.08.10.01</option>
+												<option label="17.08.10.02" value="236">17.08.10.02</option>
+												<option label="17.08.10.03" value="237">17.08.10.03</option>
+												<option label="17.08.10.04" value="238">17.08.10.04</option>
+												<option label="17.08.10.05" value="239">17.08.10.05</option>
+												<option label="17.08.10.06" value="240">17.08.10.06</option>
+												<option label="17.08.10.07" value="241">17.08.10.07</option>
+												<option label="17.09.01.00" value="242">17.09.01.00</option>
+												<option label="17.09.02.00" value="243">17.09.02.00</option>
+												<option label="17.09.03.00" value="244">17.09.03.00</option>
+												<option label="17.09.04.00" value="245">17.09.04.00</option>
+												<option label="17.09.05.00" value="246">17.09.05.00</option>
+												<option label="17.09.06.00" value="247">17.09.06.00</option>
+												<option label="17.09.07.00" value="248">17.09.07.00</option>
+											</select>
+                                </li>
+                                <li>
+                                    <label>
+						<div class="inline large" data-tt>Choose an impairment by it's number or body system name.<br><br>.</div>
+						<span class="label_qmi_text"></span>
+					</label>
+                                    <input name="body_system_init" type="hidden" value="">
+                                    <select name="body_system" style="width:254px;">
+						<option label="" value="0"></option>
+												<option label="" value="0" selected></option>
+												<option label="Ankle - Ankylosis" value="219">Ankle - Ankylosis</option>
+												<option label="Ankle - Ankylosis" value="222">Ankle - Ankylosis</option>
+												<option label="Ankle - Ankylosis" value="220">Ankle - Ankylosis</option>
+												<option label="Ankle - Ankylosis" value="218">Ankle - Ankylosis</option>
+												<option label="Ankle - Ankylosis" value="221">Ankle - Ankylosis</option>
+												<option label="Ankle - Arthritis" value="223">Ankle - Arthritis</option>
+												<option label="Ankle - Diagnosis-based Estimate - Fracture" value="228">Ankle - Diagnosis-based Estimate - Fracture</option>
+												<option label="Ankle - Diagnosis-based Estimate - Ligament Instability" value="227">Ankle - Diagnosis-based Estimate - Ligament Instability</option>
+												<option label="Ankle - Muscle Atrophy" value="217">Ankle - Muscle Atrophy</option>
+												<option label="Ankle - Muscle Strength" value="225">Ankle - Muscle Strength</option>
+												<option label="Ankle - Other" value="226">Ankle - Other</option>
+												<option label="Ankle - Range of Motion" value="224">Ankle - Range of Motion</option>
+												<option label="Aortic Disease" value="8">Aortic Disease</option>
+												<option label="Arm - Amputation/All fingers at MP joint proximally" value="134">Arm - Amputation/All fingers at MP joint proximally</option>
+												<option label="Arm - Amputation/Bicipital insertion proximally" value="132">Arm - Amputation/Bicipital insertion proximally</option>
+												<option label="Arm - Amputation/Deltoid insertion proximally" value="131">Arm - Amputation/Deltoid insertion proximally</option>
+												<option label="Arm - Amputation/Wrist proximally" value="133">Arm - Amputation/Wrist proximally</option>
+												<option label="Arm - Grip/pinch strength" value="141">Arm - Grip/pinch strength</option>
+												<option label="Arm - Other" value="142">Arm - Other</option>
+												<option label="Arm - Peripheral neuropathy - Brachial plexus" value="135">Arm - Peripheral neuropathy - Brachial plexus</option>
+												<option label="Arm - Peripheral neuropathy - CRPS I" value="138">Arm - Peripheral neuropathy - CRPS I</option>
+												<option label="Arm - Peripheral neuropathy - CRPS II" value="139">Arm - Peripheral neuropathy - CRPS II</option>
+												<option label="Arm - Peripheral neuropathy - Entrapment..sion - Carpal tunnel" value="136">Arm - Peripheral neuropathy - Entrapment..sion - Carpal tunnel</option>
+												<option label="Arm - Peripheral neuropathy - Entrapment/compression - Other" value="137">Arm - Peripheral neuropathy - Entrapment/compression - Other</option>
+												<option label="Arm - Peripheral vascular" value="140">Arm - Peripheral vascular</option>
+												<option label="Arousal Disorders" value="63">Arousal Disorders</option>
+												<option label="Arrhythmias" value="6">Arrhythmias</option>
+												<option label="Asthma" value="12">Asthma</option>
+												<option label="Behavioral/Emotional Disorder" value="66">Behavioral/Emotional Disorder</option>
+												<option label="Bladder" value="24">Bladder</option>
+												<option label="Cancer" value="14">Cancer</option>
+												<option label="Cardiomyopathies" value="4">Cardiomyopathies</option>
+												<option label="Cervical - Diagnosis-related Estimate (DRE)" value="100">Cervical - Diagnosis-related Estimate (DRE)</option>
+												<option label="Cervical - Range of Motion (ROM) - Fracture" value="101">Cervical - Range of Motion (ROM) - Fracture</option>
+												<option label="Cervical - Range of Motion - Nerve Root/Spinal Cord - Motor" value="106">Cervical - Range of Motion - Nerve Root/Spinal Cord - Motor</option>
+												<option label="Cervical - Range of Motion - Nerve Root/Spinal Cord - Sensory" value="105">Cervical - Range of Motion - Nerve Root/Spinal Cord - Sensory</option>
+												<option label="Cervical - Range of Motion - Soft Tissue Lesion" value="102">Cervical - Range of Motion - Soft Tissue Lesion</option>
+												<option label="Cervical - Range of Motion - Spondylolysis, no operation" value="103">Cervical - Range of Motion - Spondylolysis, no operation</option>
+												<option label="Cervical - Range of Motion - Stenosis, with operation" value="104">Cervical - Range of Motion - Stenosis, with operation</option>
+												<option label="Chronic Pain - Lower Extremities - Causalgia" value="90">Chronic Pain - Lower Extremities - Causalgia</option>
+												<option label="Chronic Pain - Lower Extremities - Post-traumatic Neuralgia" value="91">Chronic Pain - Lower Extremities - Post-traumatic Neuralgia</option>
+												<option label="Chronic Pain - Lower Extremities - Refle..ympathetic Dystrophy" value="92">Chronic Pain - Lower Extremities - Refle..ympathetic Dystrophy</option>
+												<option label="Chronic Pain - Upper Extremities - Causalgia" value="87">Chronic Pain - Upper Extremities - Causalgia</option>
+												<option label="Chronic Pain - Upper Extremities - Post-traumatic Neuralgia" value="88">Chronic Pain - Upper Extremities - Post-traumatic Neuralgia</option>
+												<option label="Chronic Pain - Upper Extremities - Refle..ympathetic Dystrophy" value="89">Chronic Pain - Upper Extremities - Refle..ympathetic Dystrophy</option>
+												<option label="Cognitive Impairment" value="64">Cognitive Impairment</option>
+												<option label="Colon, Rectum, and Anus" value="16">Colon, Rectum, and Anus</option>
+												<option label="Congenital Heart Disease" value="3">Congenital Heart Disease</option>
+												<option label="Consciousness Disorder" value="61">Consciousness Disorder</option>
+												<option label="Contact Dermatitis" value="35">Contact Dermatitis</option>
+												<option label="Coronary Heart Disease" value="2">Coronary Heart Disease</option>
+												<option label="Corticospinal Tract - Anorectal Impairment" value="125">Corticospinal Tract - Anorectal Impairment</option>
+												<option label="Corticospinal Tract - Bladder Impairment" value="124">Corticospinal Tract - Bladder Impairment</option>
+												<option label="Corticospinal Tract - One Upper Extremity" value="121">Corticospinal Tract - One Upper Extremity</option>
+												<option label="Corticospinal Tract - Respiratory Impairment" value="127">Corticospinal Tract - Respiratory Impairment</option>
+												<option label="Corticospinal Tract - Sexual Impairment" value="126">Corticospinal Tract - Sexual Impairment</option>
+												<option label="Corticospinal Tract - Station/Gait Disorder" value="123">Corticospinal Tract - Station/Gait Disorder</option>
+												<option label="Corticospinal Tract - Two Upper Extremities" value="122">Corticospinal Tract - Two Upper Extremities</option>
+												<option label="Cranial Nerve - Facial" value="72">Cranial Nerve - Facial</option>
+												<option label="Cranial Nerve - Glossopharyngeal & Valgus" value="75">Cranial Nerve - Glossopharyngeal & Valgus</option>
+												<option label="Cranial Nerve - Hypoglossal" value="79">Cranial Nerve - Hypoglossal</option>
+												<option label="Cranial Nerve - Oculomotor, Trochlear & Abducens" value="70">Cranial Nerve - Oculomotor, Trochlear & Abducens</option>
+												<option label="Cranial Nerve - Olfactory" value="67">Cranial Nerve - Olfactory</option>
+												<option label="Cranial Nerve - Optic" value="68">Cranial Nerve - Optic</option>
+												<option label="Cranial Nerve - Optic" value="69">Cranial Nerve - Optic</option>
+												<option label="Cranial Nerve - Spinal Accessory" value="77">Cranial Nerve - Spinal Accessory</option>
+												<option label="Cranial Nerve - Spinal Accessory - Shoulder - Range of motion" value="76">Cranial Nerve - Spinal Accessory - Shoulder - Range of motion</option>
+												<option label="Cranial Nerve - Spinal Accessory - Voice & Speech" value="78">Cranial Nerve - Spinal Accessory - Voice & Speech</option>
+												<option label="Cranial Nerve - Trigeminal" value="71">Cranial Nerve - Trigeminal</option>
+												<option label="Cranial Nerve - Vestibulocochlear - Tinnitus" value="74">Cranial Nerve - Vestibulocochlear - Tinnitus</option>
+												<option label="Cranial Nerve - Vestibulocochlear - Vertigo" value="73">Cranial Nerve - Vestibulocochlear - Vertigo</option>
+												<option label="Diabetes Mellitus" value="48">Diabetes Mellitus</option>
+												<option label="Diabetes Mellitus" value="43">Diabetes Mellitus</option>
+												<option label="Diabetes Mellitus" value="46">Diabetes Mellitus</option>
+												<option label="Diabetes Mellitus" value="41">Diabetes Mellitus</option>
+												<option label="Diabetes Mellitus" value="49">Diabetes Mellitus</option>
+												<option label="Diabetes Mellitus" value="44">Diabetes Mellitus</option>
+												<option label="Diabetes Mellitus" value="47">Diabetes Mellitus</option>
+												<option label="Diabetes Mellitus" value="42">Diabetes Mellitus</option>
+												<option label="Diabetes Mellitus" value="45">Diabetes Mellitus</option>
+												<option label="Disfigurement" value="33">Disfigurement</option>
+												<option label="EAR - Hearing Impairment" value="50">EAR - Hearing Impairment</option>
+												<option label="EAR - Vestibular Disorders" value="51">EAR - Vestibular Disorders</option>
+												<option label="Elbow/forearm - Other" value="146">Elbow/forearm - Other</option>
+												<option label="Elbow/forearm - Range of motion" value="145">Elbow/forearm - Range of motion</option>
+												<option label="Enterocutaneous Fistulas" value="17">Enterocutaneous Fistulas</option>
+												<option label="Enterocutaneous Fistulas" value="18">Enterocutaneous Fistulas</option>
+												<option label="Episodic Neurologic Disorder" value="62">Episodic Neurologic Disorder</option>
+												<option label="Face/cosmetic" value="52">Face/cosmetic</option>
+												<option label="Face/eye/cosmetic" value="53">Face/eye/cosmetic</option>
+												<option label="Femur - Diagnosis-based Estimate - Fracture" value="197">Femur - Diagnosis-based Estimate - Fracture</option>
+												<option label="Foot - Ankylosis" value="230">Foot - Ankylosis</option>
+												<option label="Foot - Arthritis" value="231">Foot - Arthritis</option>
+												<option label="Foot - Diagnosis-based Estimate - Avascular Necrosis" value="240">Foot - Diagnosis-based Estimate - Avascular Necrosis</option>
+												<option label="Foot - Diagnosis-based Estimate - Calvus" value="238">Foot - Diagnosis-based Estimate - Calvus</option>
+												<option label="Foot - Diagnosis-based Estimate - Hind Foot Fracture" value="235">Foot - Diagnosis-based Estimate - Hind Foot Fracture</option>
+												<option label="Foot - Diagnosis-based Estimate - Intra-articular Fracture" value="237">Foot - Diagnosis-based Estimate - Intra-articular Fracture</option>
+												<option label="Foot - Diagnosis-based Estimate - Loss of Tibia" value="236">Foot - Diagnosis-based Estimate - Loss of Tibia</option>
+												<option label="Foot - Diagnosis-based Estimate - Metatarsal fracture" value="241">Foot - Diagnosis-based Estimate - Metatarsal fracture</option>
+												<option label="Foot - Diagnosis-based Estimate - Rocker Bottom" value="239">Foot - Diagnosis-based Estimate - Rocker Bottom</option>
+												<option label="Foot - Muscle Atrophy" value="229">Foot - Muscle Atrophy</option>
+												<option label="Foot - Muscle Strength" value="233">Foot - Muscle Strength</option>
+												<option label="Foot - Other" value="234">Foot - Other</option>
+												<option label="Foot - Range of Motion" value="232">Foot - Range of Motion</option>
+												<option label="Hand/multiple fingers - Amputation" value="150">Hand/multiple fingers - Amputation</option>
+												<option label="Hand/multiple fingers - Other" value="152">Hand/multiple fingers - Other</option>
+												<option label="Hand/multiple fingers - Range of motion" value="149">Hand/multiple fingers - Range of motion</option>
+												<option label="Hand/multiple fingers - Sensory" value="151">Hand/multiple fingers - Sensory</option>
+												<option label="Hematopoietic Impairment" value="40">Hematopoietic Impairment</option>
+												<option label="Hematopoietic Impairment" value="38">Hematopoietic Impairment</option>
+												<option label="Hematopoietic Impairment" value="39">Hematopoietic Impairment</option>
+												<option label="Hernias" value="21">Hernias</option>
+												<option label="Hip - Ankylosis" value="184">Hip - Ankylosis</option>
+												<option label="Hip - Ankylosis" value="187">Hip - Ankylosis</option>
+												<option label="Hip - Ankylosis" value="185">Hip - Ankylosis</option>
+												<option label="Hip - Ankylosis" value="188">Hip - Ankylosis</option>
+												<option label="Hip - Ankylosis" value="186">Hip - Ankylosis</option>
+												<option label="Hip - Arthritis" value="189">Hip - Arthritis</option>
+												<option label="Hip - Diagnosis-based Estimate - Hip/Arthroplasty" value="195">Hip - Diagnosis-based Estimate - Hip/Arthroplasty</option>
+												<option label="Hip - Diagnosis-based Estimate - Hip/Femoral Neck Fracture" value="194">Hip - Diagnosis-based Estimate - Hip/Femoral Neck Fracture</option>
+												<option label="Hip - Diagnosis-based Estimate - Hip/Replacement" value="193">Hip - Diagnosis-based Estimate - Hip/Replacement</option>
+												<option label="Hip - Diagnosis-based Estimate - Trochanteric bursitis" value="196">Hip - Diagnosis-based Estimate - Trochanteric bursitis</option>
+												<option label="Hip - Muscle Atrophy" value="183">Hip - Muscle Atrophy</option>
+												<option label="Hip - Muscle Strength" value="191">Hip - Muscle Strength</option>
+												<option label="Hip - Other" value="192">Hip - Other</option>
+												<option label="Hip - Range of Motion" value="190">Hip - Range of Motion</option>
+												<option label="Hypertensive Cardiovascular Disease" value="7">Hypertensive Cardiovascular Disease</option>
+												<option label="Index Finger - Amputation" value="158">Index Finger - Amputation</option>
+												<option label="Index Finger - Other" value="160">Index Finger - Other</option>
+												<option label="Index Finger - Range of motion" value="157">Index Finger - Range of motion</option>
+												<option label="Index Finger - Sensory" value="159">Index Finger - Sensory</option>
+												<option label="Knee - Ankylosis" value="200">Knee - Ankylosis</option>
+												<option label="Knee - Ankylosis" value="201">Knee - Ankylosis</option>
+												<option label="Knee - Ankylosis" value="199">Knee - Ankylosis</option>
+												<option label="Knee - Ankylosis" value="202">Knee - Ankylosis</option>
+												<option label="Knee - Arthritis" value="203">Knee - Arthritis</option>
+												<option label="Knee - Diagnosis-based Estimate - Cruciate/collateral Ligament" value="211">Knee - Diagnosis-based Estimate - Cruciate/collateral Ligament</option>
+												<option label="Knee - Diagnosis-based Estimate - Fracture" value="208">Knee - Diagnosis-based Estimate - Fracture</option>
+												<option label="Knee - Diagnosis-based Estimate - Menisectomy" value="210">Knee - Diagnosis-based Estimate - Menisectomy</option>
+												<option label="Knee - Diagnosis-based Estimate - Patellectomy" value="209">Knee - Diagnosis-based Estimate - Patellectomy</option>
+												<option label="Knee - Diagnosis-based Estimate - Plateau Fracture" value="212">Knee - Diagnosis-based Estimate - Plateau Fracture</option>
+												<option label="Knee - Diagnosis-based Estimate - Proximal Tibial osteotomy" value="215">Knee - Diagnosis-based Estimate - Proximal Tibial osteotomy</option>
+												<option label="Knee - Diagnosis-based Estimate - Subluxation/dislocation" value="207">Knee - Diagnosis-based Estimate - Subluxation/dislocation</option>
+												<option label="Knee - Diagnosis-based Estimate - Supra/Intercondylar Fracture" value="213">Knee - Diagnosis-based Estimate - Supra/Intercondylar Fracture</option>
+												<option label="Knee - Diagnosis-based Estimate - Total Replacement" value="214">Knee - Diagnosis-based Estimate - Total Replacement</option>
+												<option label="Knee - Muscle Atrophy" value="198">Knee - Muscle Atrophy</option>
+												<option label="Knee - Muscle Strength" value="205">Knee - Muscle Strength</option>
+												<option label="Knee - Other" value="206">Knee - Other</option>
+												<option label="Knee - Range of Motion" value="204">Knee - Range of Motion</option>
+												<option label="Language Disorder" value="65">Language Disorder</option>
+												<option label="Latex Allergy" value="36">Latex Allergy</option>
+												<option label="Leg - Amputation/Knee proximally" value="174">Leg - Amputation/Knee proximally</option>
+												<option label="Leg - Amputation/MTP joint proximally" value="175">Leg - Amputation/MTP joint proximally</option>
+												<option label="Leg - Causalgia/RSD" value="179">Leg - Causalgia/RSD</option>
+												<option label="Leg - Gait Derangement" value="180">Leg - Gait Derangement</option>
+												<option label="Leg - Limb Length" value="173">Leg - Limb Length</option>
+												<option label="Leg - Other" value="181">Leg - Other</option>
+												<option label="Leg - Peripheral Nerve" value="177">Leg - Peripheral Nerve</option>
+												<option label="Leg - Skin Loss" value="176">Leg - Skin Loss</option>
+												<option label="Leg - Vascular" value="178">Leg - Vascular</option>
+												<option label="Little Finger - Amputation" value="170">Little Finger - Amputation</option>
+												<option label="Little Finger - Other" value="172">Little Finger - Other</option>
+												<option label="Little Finger - Range of motion" value="169">Little Finger - Range of motion</option>
+												<option label="Little Finger - Sensory" value="171">Little Finger - Sensory</option>
+												<option label="Liver/Biliary Tract" value="19">Liver/Biliary Tract</option>
+												<option label="Liver/Biliary Tract" value="20">Liver/Biliary Tract</option>
+												<option label="Lumbar - Diagnosis-related Estimate" value="114">Lumbar - Diagnosis-related Estimate</option>
+												<option label="Lumbar - Range of Motion - Fracture" value="115">Lumbar - Range of Motion - Fracture</option>
+												<option label="Lumbar - Range of Motion - Nerve Root/Spinal Cord - Motor" value="120">Lumbar - Range of Motion - Nerve Root/Spinal Cord - Motor</option>
+												<option label="Lumbar - Range of Motion - Nerve Root/Spinal Cord - Sensory" value="119">Lumbar - Range of Motion - Nerve Root/Spinal Cord - Sensory</option>
+												<option label="Lumbar - Range of Motion - Soft Tissue Lesion" value="116">Lumbar - Range of Motion - Soft Tissue Lesion</option>
+												<option label="Lumbar - Range of Motion - Spondylolysis, no operation" value="117">Lumbar - Range of Motion - Spondylolysis, no operation</option>
+												<option label="Lumbar - Range of Motion - Stenosis, with operation" value="118">Lumbar - Range of Motion - Stenosis, with operation</option>
+												<option label="Middle Finger - Amputation" value="162">Middle Finger - Amputation</option>
+												<option label="Middle Finger - Other" value="164">Middle Finger - Other</option>
+												<option label="Middle Finger - Range of motion" value="161">Middle Finger - Range of motion</option>
+												<option label="Middle Finger - Sensory" value="163">Middle Finger - Sensory</option>
+												<option label="Nose/Throat/Related Structures - Mastication & Deglutition" value="55">Nose/Throat/Related Structures - Mastication & Deglutition</option>
+												<option label="Nose/Throat/Related Structures - Olfaction & Taste" value="56">Nose/Throat/Related Structures - Olfaction & Taste</option>
+												<option label="Nose/Throat/Related Structures - Respiration" value="54">Nose/Throat/Related Structures - Respiration</option>
+												<option label="Nose/Throat/Related Structures - Voice & Speech" value="57">Nose/Throat/Related Structures - Voice & Speech</option>
+												<option label="Pelvic - Healed Fracture" value="128">Pelvic - Healed Fracture</option>
+												<option label="Pelvic - Healed Fracture with Deformity" value="130">Pelvic - Healed Fracture with Deformity</option>
+												<option label="Pelvic - Healed Fracture with Displacement" value="129">Pelvic - Healed Fracture with Displacement</option>
+												<option label="Pelvis - Diagnosis-based estimate (DBE) - Fracture" value="182">Pelvis - Diagnosis-based estimate (DBE) - Fracture</option>
+												<option label="Pericardial Heart Disease" value="5">Pericardial Heart Disease</option>
+												<option label="Peripheral Nerve System - Lower Extremity - Motor" value="98">Peripheral Nerve System - Lower Extremity - Motor</option>
+												<option label="Peripheral Nerve System - Lower Extremity - Sensory" value="97">Peripheral Nerve System - Lower Extremity - Sensory</option>
+												<option label="Peripheral Nerve System - Spine - Motor" value="94">Peripheral Nerve System - Spine - Motor</option>
+												<option label="Peripheral Nerve System - Spine - Sensory" value="93">Peripheral Nerve System - Spine - Sensory</option>
+												<option label="Peripheral Nerve System - Upper Extremity - Motor" value="96">Peripheral Nerve System - Upper Extremity - Motor</option>
+												<option label="Peripheral Nerve System - Upper Extremity - Sensory" value="95">Peripheral Nerve System - Upper Extremity - Sensory</option>
+												<option label="Peripheral Vascular Disease, Lower Extremities" value="10">Peripheral Vascular Disease, Lower Extremities</option>
+												<option label="Peripheral Vascular Disease, Upper Extremities" value="9">Peripheral Vascular Disease, Upper Extremities</option>
+												<option label="Psychiatric - Mental and Behavioral" value="99">Psychiatric - Mental and Behavioral</option>
+												<option label="Pulmonary Circulation Disease" value="11">Pulmonary Circulation Disease</option>
+												<option label="Reproductive  System" value="32">Reproductive  System</option>
+												<option label="Reproductive  System" value="27">Reproductive  System</option>
+												<option label="Reproductive  System" value="30">Reproductive  System</option>
+												<option label="Reproductive  System" value="28">Reproductive  System</option>
+												<option label="Reproductive  System" value="31">Reproductive  System</option>
+												<option label="Reproductive  System" value="26">Reproductive  System</option>
+												<option label="Reproductive  System" value="29">Reproductive  System</option>
+												<option label="Respitory Disorders" value="13">Respitory Disorders</option>
+												<option label="Ring Finger - Amputation" value="166">Ring Finger - Amputation</option>
+												<option label="Ring Finger - Other" value="168">Ring Finger - Other</option>
+												<option label="Ring Finger - Range of motion" value="165">Ring Finger - Range of motion</option>
+												<option label="Ring Finger - Sensory" value="167">Ring Finger - Sensory</option>
+												<option label="Scars & Skin Grafts" value="34">Scars & Skin Grafts</option>
+												<option label="Shoulder - Other" value="144">Shoulder - Other</option>
+												<option label="Shoulder - Range of motion" value="143">Shoulder - Range of motion</option>
+												<option label="Skin Cancer" value="37">Skin Cancer</option>
+												<option label="Spinal Cord Disorder - Anorectal" value="85">Spinal Cord Disorder - Anorectal</option>
+												<option label="Spinal Cord Disorder - Respiratory" value="83">Spinal Cord Disorder - Respiratory</option>
+												<option label="Spinal Cord Disorder - Sexual" value="86">Spinal Cord Disorder - Sexual</option>
+												<option label="Spinal Cord Disorder - Urinary" value="84">Spinal Cord Disorder - Urinary</option>
+												<option label="Station and Gait Disorders" value="80">Station and Gait Disorders</option>
+												<option label="Thoracic - Diagnosis-related Estimate" value="107">Thoracic - Diagnosis-related Estimate</option>
+												<option label="Thoracic - Range of Motion - Fracture" value="108">Thoracic - Range of Motion - Fracture</option>
+												<option label="Thoracic - Range of Motion - Nerve Root/Spinal Cord - Motor" value="113">Thoracic - Range of Motion - Nerve Root/Spinal Cord - Motor</option>
+												<option label="Thoracic - Range of Motion - Nerve Root/Spinal Cord - Sensory" value="112">Thoracic - Range of Motion - Nerve Root/Spinal Cord - Sensory</option>
+												<option label="Thoracic - Range of Motion - Soft Tissue Lesion" value="109">Thoracic - Range of Motion - Soft Tissue Lesion</option>
+												<option label="Thoracic - Range of Motion - Spondylolysis, no operation" value="110">Thoracic - Range of Motion - Spondylolysis, no operation</option>
+												<option label="Thoracic - Range of Motion - Stenosis, with operation" value="111">Thoracic - Range of Motion - Stenosis, with operation</option>
+												<option label="Thumb - Amputation" value="154">Thumb - Amputation</option>
+												<option label="Thumb - Other" value="156">Thumb - Other</option>
+												<option label="Thumb - Range of motion" value="153">Thumb - Range of motion</option>
+												<option label="Thumb - Sensory" value="155">Thumb - Sensory</option>
+												<option label="Tibia/fibula - Diagnosis-based Estimate - fracture" value="216">Tibia/fibula - Diagnosis-based Estimate - fracture</option>
+												<option label="Toes - Amputation" value="247">Toes - Amputation</option>
+												<option label="Toes - Ankylosis" value="243">Toes - Ankylosis</option>
+												<option label="Toes - Arthritis" value="244">Toes - Arthritis</option>
+												<option label="Toes - Muscle Atrophy" value="242">Toes - Muscle Atrophy</option>
+												<option label="Toes - Muscle Strength" value="246">Toes - Muscle Strength</option>
+												<option label="Toes - Other" value="248">Toes - Other</option>
+												<option label="Toes - Range of Motion" value="245">Toes - Range of Motion</option>
+												<option label="Upper Digestive Tract" value="15">Upper Digestive Tract</option>
+												<option label="Upper Extremities" value="81">Upper Extremities</option>
+												<option label="Upper Extremities" value="82">Upper Extremities</option>
+												<option label="Upper Urinary Tract" value="22">Upper Urinary Tract</option>
+												<option label="Urethra" value="25">Urethra</option>
+												<option label="Urinary Diversion" value="23">Urinary Diversion</option>
+												<option label="Valvular Heart Disease" value="1">Valvular Heart Disease</option>
+												<option label="Visual Acuity" value="58">Visual Acuity</option>
+												<option label="Visual Field" value="59">Visual Field</option>
+												<option label="Visual System" value="60">Visual System</option>
+												<option label="Wrist - Other" value="148">Wrist - Other</option>
+												<option label="Wrist - Range of motion" value="147">Wrist - Range of motion</option>
+											</select>
+                                </li>
+                                <li>
+                                    <label>Body Side:</label>
+                                    <input type="radio" name="side" data-rd value="na" id="n_side" checked><label for="n_side"> n.a. </label>&nbsp;&nbsp;
+                                    <input type="radio" name="side" data-rd value="left" id="l_side"><label for="l_side"> Left </label>&nbsp;&nbsp;
+                                    <input type="radio" name="side" data-rd value="right" id="r_side"><label for="r_side"> Right </label>
+                                </li>
+                                <li style="height:auto;min-height:26px;vertical-align:top;">
+                                    <label>Whole Person (WPI) (or Standard):</label>
+                                    <input type="text" name="whole_person" value="10" size="4" class="num" style="width:40px;"> <span style="line-height:30px">%</span> &nbsp;
+                                    <span id="psych05" style="display:none;font-size:12px;zoom:1;display:none;"> &larr; Enter GAF: <input name="gaf" type="text" value="" size="4" maxlength="3" class="num"> <span class="help"> (converted as you type)</span></span>
+                                </li>
+
+                                <li>
+
+                                    <label>
+						<div class="inline" data-tt>Click on this menu to find an occupation </div>
+						<span class="label_qmi_text">Occupation by group number:</span>
+					</label>
+                                    <select name="occ_code" id="coc_narq">
+					  <option label="" value=""></option>
+					
+					  <option label="110" value="110">110</option>
+					  <option label="111" value="111">111</option>
+					  <option label="112" value="112">112</option>
+					  <option label="120" value="120">120</option>
+					  <option label="210" value="210">210</option>
+					  <option label="211" value="211">211</option>
+					  <option label="212" value="212">212</option>
+					  <option label="213" value="213">213</option>
+					  <option label="214" value="214">214</option>
+					  <option label="220" value="220">220</option>
+					  <option label="221" value="221">221</option>
+					  <option label="230" value="230">230</option>
+					  <option label="240" value="240">240</option>
+					  <option label="250" value="250">250</option>
+					  <option label="251" value="251">251</option>
+					  <option label="290" value="290">290</option>
+					  <option label="310" value="310">310</option>
+					  <option label="311" value="311">311</option>
+					  <option label="320" value="320">320</option>
+					  <option label="321" value="321">321</option>
+					  <option label="322" value="322">322</option>
+					  <option label="330" value="330">330</option>
+					  <option label="331" value="331">331</option>
+					  <option label="332" value="332">332</option>
+					  <option label="340" value="340">340</option>
+					  <option label="341" value="341">341</option>
+					  <option label="350" value="350">350</option>
+					  <option label="351" value="351">351</option>
+					  <option label="360" value="360">360</option>
+					  <option label="370" value="370">370</option>
+					  <option label="380" value="380">380</option>
+					  <option label="390" value="390">390</option>
+					  <option label="420" value="420">420</option>
+					  <option label="430" value="430">430</option>
+					  <option label="460" value="460">460</option>
+					  <option label="470" value="470">470</option>
+					  <option label="480" value="480">480</option>
+					  <option label="481" value="481">481</option>
+					  <option label="482" value="482">482</option>
+					  <option label="490" value="490">490</option>
+					  <option label="491" value="491">491</option>
+					  <option label="492" value="492">492</option>
+					  <option label="493" value="493">493</option>
+					  <option label="560" value="560">560</option>
+					  <option label="590" value="590">590</option>					</select>
+                                </li>
+                                <li>
+
+                                    <label>
+						<div class="inline" data-tt>Click on this menu to find an occupation by it’s name. </div>
+						<span class="label_qmi_text"></span>
+					</label>
+                                    <input type="hidden" name="occ_name" value="">
+                                    <select name="nm_occ_name" id="non_narq" style="width:254px">
+					  <option label="" value=""></option>
+					</select>
+                                </li>
+                                <li style="height:auto;">
+                                    <label>Occupation description:</label>
+                                    <textarea name="description" readonly cols="48" rows="4" style="font-size:9px;"></textarea>
+                                </li>
+                                <li>
+                                    <label>Percent industrial (apportionment):</label>
+                                    <input type="text" name="percent_industrial" value="100" size=4 class="num"> %
+                                </li>
+                                <li>
+                                    <label>Average weekly earnings:</label> $ <input type="text" name="weekly_wage" value="" size="8" class="num">
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- class="calc_body" -->
+
+                        <div class="calc_button_bar">
+                            <input type="reset" value="Reset Input" class="btn_d grey" disabled />
+                            <input type="button" value="Print Result" class="btn_d grey" id="calc_print" disabled />
+                            <input type="button" value="Save Data Set" class="btn_d grey" id="calc_save" name="save_data" disabled />
+                            <input type="submit" value="Calculate" class="btn_d green" id="calc_calc" disabled />
+                        </div>
+                        <!-- class="calc_button_bar" -->
+
+                        <div class="calc_button_bar" style="padding-left:6px;font-size:13px;">
+                            List of saved ratings:&nbsp;
+                            <select name="multi_dis" data-dd style="width:146px;">
+				<option disabled> </option>
+			</select>
+
+                            <input type="submit" name="delete" value="Delete selected" disabled="disabled" class="btn_d grey">
+                            <input type="submit" name="delete_all" value="Delete All" disabled="disabled" class="btn_d grey">
+                        </div>
+                        <!-- class="calc_button_bar" -->
+
+                        <div class="calc_button_bar" style="padding-left:6px">
+                            Add rating to list for
+                            <!--a href="/calculator/ca-multiple" style="color:#7ac"-->Multiple/Combined Disability
+                            <!--/a-->:&nbsp;
+                            <input type="submit" name="add" value="Add This Rating to List" disabled class="btn_d grey" style="width:219px;">
+                        </div>
+                        <!-- class="calc_button_bar" -->
+
+                        <div class="results" data-disabled>
+                            <ul>
+                                <li>
+                                    <h3>Results:</h3>
+                                </li>
+                                <li class="bb">
+                                    <label>Age for calculation (DOI):</label>
+                                    <div class="result" id=""></div>
+                                </li>
+                                <li class="bb">
+                                    <label>Final formula:</label>
+                                    <div class="result" id=""></div>
+                                </li>
+                                <li class="bb">
+                                    <label>Weeks of Indemnity:</label>
+                                    <div class="result" id=""></div>
+                                </li>
+                                <li class="bb">
+                                    <label>Gross Indemnity:</label>
+                                    <div class="result" id="">$ </div>
+                                </li>
+                                <li class="bb">
+                                    <label>Weekly Comp Rate:</label>
+                                    <div class="result" id="">$ </div>
+                                </li>
+                                <li>
+                                    <label>Life Pension Weekly Rate:</label>
+                                    <div class="result" id="">$ </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </form>
+
+
+                <!-- start horizontal ad -->
+
+                <!-- end horizontal ad -->
+            </div>
+            <!-- end left -->
+
+            <div class="right_column" data-rightColumn>
+                <!-- start right -->
+                <div class="home_left_advert">
+                    <a class="wcc_ad" id="wcc_ad_740_30" href="https://www.mcg.com/odg/resources/state-adoptions/" target="_blank"><img src="https://wcc-public-storage-4081.s3.us-west-1.amazonaws.com/ads/banners/ODG-WCC-300x250-Jan-2023.jpg" border="0" alt="" /></a>
+                </div>
+
+
+
+
+
+                <div class="clear"></div>
+            </div>
+        </div>
+
+        <!-- Featured Video -->
+        <!--
+	<div class='right_info_box'>
+		<h3 class='section-header'>Featured Video</h3>
+		<div class='body group' style='margin: 6px 6px 5px 6px;'>
+			<div class='featured-video-container'>
+				<iframe src='https://www.youtube.com/embed/g9WtOSbYqDc' id='featured-video' width='270' height='150' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen><img src=''></img></iframe>
+			</div>
+		</div>
+	</div>
+-->
+
+
+        <!-- Gala Registration -->
+
+        <!--
+-->
+
+
+
+
+        < </div>
+            <!-- end right -->
+
+
+    </div>
+    <!-- end #content_wrapper -->
+
+    <!-- <div id="wrapper_top_bot ">
+        <img src="/layout_imgs/bot_cap.png " alt=" ">
+    </div>  -->
+
+    </div>
+    <!-- end outer most #wrapper -->
+
+
+    </div>
+    <script>
+        $(document).ready(function() {
+            aem = new AdEventManager({
+                url: 'https://ads.workcompcentral.com/ad_event ',
+                authpk: null
+            });
+        });
+    </script>
+
+
+</body>
+
+</html>
