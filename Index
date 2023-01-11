@@ -17,13 +17,10 @@ global.phtml file that comes before the content
     <meta property="og:type" content="website" />
 
     <meta name="language" content="English">
-    <meta name="copyright" content="WorkCompCentral">
     <meta name="robots" content="All">
     <meta name="revisit-after" content="15 days">
     <meta name="document-class" content="Living Document">
-    <meta content="Workers' Compensation News and Education" name="page-topic">
     <meta name="document-classification" content="Workers' Compensation News and Education">
-    <meta name="document-rights" content="Copywritten Work">
     <meta name="document-type" content="Public">
     <meta name="document-rating" content="General">
     <meta name="document-distribution" content="Global">
@@ -1582,7 +1579,7 @@ global.phtml file that comes before the content
 
 
                 <!-- start horizontal ad -->
-               
+
                 <!-- end horizontal ad -->
             </div>
             <!-- end left -->
@@ -1600,9 +1597,7 @@ global.phtml file that comes before the content
                 <div class="clear"></div>
             </div>
         </div>
-        <div class="home_left_advert">
-            <a class="wcc_ad" id="wcc_ad_612_31" href="https://www.foundationai.com/legal-automate-your-document-intake.html" target="_blank"><img src="https://wcc-public-storage-4081.s3.us-west-1.amazonaws.com/ads/banners/300-250_large-Banner.gif" border="0" alt="" /></a>
-        </div>
+
         <!-- Featured Video -->
         <!--
 	<div class='right_info_box'>
